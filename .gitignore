@@ -5,3 +5,4 @@
 *.class
 git_commit.sh
 nodejs-installer.msi
+node_modules/
