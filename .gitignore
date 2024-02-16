@@ -4,4 +4,4 @@
 *.tar
 *.class
 git_commit.sh
-*.msi
+nodejs-installer.msi
