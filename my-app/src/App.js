@@ -1,5 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
+import Sidebar from './Sidebar';
+
 
 function Header(){
   return (
@@ -17,6 +19,7 @@ function App() {
   return (
     <div className="App">
       <Header/>
+      <Sidebar />
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
